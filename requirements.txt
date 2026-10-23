@@ -1,0 +1,19 @@
+# Python Desktop File Organizer
+# Developer: Binay Chandra (GitHub: Binay-10)
+# Assignment: Tech Internships — File Organizer
+#
+# Technical Specification:
+# This project uses ONLY the Python standard library.
+# No external third-party dependencies are required or needed.
+#
+# Standard Library Modules Employed:
+# - os          : Directory inspection, extension extraction, folder creation
+# - shutil      : Safe high-level file moving and error classification
+# - pathlib     : Robust cross-platform path validation and manipulation
+# - time        : High-precision execution duration benchmarking via time.perf_counter()
+# - sys         : CLI argument parsing and process exit handling
+# - dataclasses : Structured organization summary metrics
+# - typing      : Strict static type annotations
+#
+# Prerequisites:
+# Python 3.10 or higher
